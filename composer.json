@@ -9,5 +9,8 @@
             "email": "cyij2006@gmail.com"
         }
     ],
+    "autoload": {
+      "classmap": ["src/"]
+    },
     "require": {}
 }
